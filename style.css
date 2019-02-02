@@ -1,0 +1,39 @@
+h1 {
+	color:#76A4AB;
+	text-decoration:bold;
+	/*font-family: 'Major Mono Display', monospace;*/
+	text-align: center;
+}
+h2 {
+	color:#476266;
+	text-decoration:italic;
+	/*font-family: 'Major Mono Display', monospace;*/
+	font-family: 'Montserrat', sans-serif;
+}
+/*body {
+	font-family: 'Major Mono Display', monospace;
+}*/
+.mono {
+	font-family: 'Major Mono Display', monospace;
+}
+.railway1 {
+	font-family: 'Raleway', sans-serif;
+}
+body{
+	background-color:#FFCF9C;
+}
+.railway:hover {
+	background-color:#3B1C32;
+	color:white;
+}
+img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+ 	width: 600px;
+ 	height: 200px;
+}
+img { 
+	width: 200px;
+  	padding: 50px;
+  }
